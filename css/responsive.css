@@ -1,0 +1,61 @@
+@media only screen and (max-width: 800px) {
+  .nav {
+    display: none;
+  }
+  .nav li {
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+  }
+  .responsive-nav-burger {
+    display: block;
+  }
+  .banner-text h1 {
+    font-size: 25px;
+  }
+  .banner-text p {
+    font-size: 15px;
+  }
+  .header-banner-form {
+    margin-top: 30px;
+    padding: 18px;
+    height: 300px;
+  }
+  .domain-registration-form {
+    width: 100%;
+  }
+  .domain-prices {
+    width: 100%;
+  }
+  .domain-prices li {
+    display: inline;
+  }
+  .domain-registration-area p {
+    width: 100%;
+  }
+  .service-item {
+    margin-top: 20px;
+  }
+  .tools-section h2 {
+    font-size: 25px;
+  }
+  .tools-section h6 {
+    width: 100%;
+  }
+  .mobile-number-send-field {
+    width: 95%;
+  }
+  .pricing-package-item {
+    margin-top: 30px;
+  }
+  footer {
+    text-align: center;
+  }
+  footer .our-team {
+    margin-top: 30px;
+  }
+  footer .contact {
+    margin-top: 30px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
